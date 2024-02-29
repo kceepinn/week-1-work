@@ -1,27 +1,12 @@
 # week-1-work
 
-INGREDIENTS
-
-2 tablespoons vegetable oil
-½ kg or 500g of beef cut into thin strips
-1 ½ cups fresh broccoli florets
-1 capsicum, cut into matchsticks
-2 carrots, thinly sliced
-1 spring onion, chopped
-1 teaspoon minced garlic
-2 tablespoons soy sauce
-
-INSTRUCTION
-
-Wash and dry your hands
-Gather all ingredients and tools needed to make the stir fry
-Start by heating the vegetable oil in a pan over medium-high heat until the oil is simmering
-Add the thinly sliced beef strips to the hot oil and stir for 3-4 minutes until the meat is browned
-Using a spatula push the meat to the sides of the pan creating a space in the middle.
-Place the garlic, spring onion, broccoli, capsicum and carrot into the centre of the pan.
-Stir the vegetables continuously for about 2 minutes until they have slightly softened.
-Begin to add the beef back into the middle of the pan and stir everything together.
-Drizzle the meat and vegetables with soy sauce.
-Cook and mix for another 2 minutes until the vegetables are tender
-Place the roasted beef and vegetables on top of rice or noodles
-Serve and enjoy
+The green circle looking shape indicates the start and end of the recipe.
+Begin by starting at the start line.
+Follow the steps from 1 down to 6.
+Below step 6 you will see a circle with the letter A inside. You will need to find the second circle on the top right hand side of the next column.
+Continue to follow step 7 to 10.
+On step 11 you will find a choice question on whether or not you like rice. This question gives you 2 options on whether you do like rice or if you don't. 
+If you do like rice you would follow the yes arrow and go to step 12. If you don't like rice you would follow the no arrow and go to step 13 where noodles are another option for you.
+Following the next arrow down you will need to pass through a circle with the letter B inside. Ignore this circle it is a connector. 
+Continue to follow the next arrow to step 14.
+You have now completed making the Stir fry congratulations.
