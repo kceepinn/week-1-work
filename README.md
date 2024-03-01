@@ -12,6 +12,3 @@ Do you prefer rice? If yes go to step 12 if no go to step 13
 Pour the mixture on top of rice 
 Pour the mixture on top of noodles
 Serve hot and enjoy
-
-
-https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/
